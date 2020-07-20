@@ -1,0 +1,52 @@
+body
+{
+  background: url("buildwater.jpg") ;
+  background-size: 1600px 800px;
+
+  background-color:#EAF6F6;
+}
+hr
+{
+  background-color:#05dfd7;
+  border-style: dotted none none;
+  background-color: transparent;
+  border-color:grey;
+  border-top-width: 5px;
+  width:30%;
+}
+img
+{
+  border-radius: 20%
+}
+h3
+{
+  color:#05dfd7;
+}
+p
+{
+  color:#05dfd7;
+  font-weight:bold ;
+}
+ul li
+{
+  color:white;
+}
+ol li
+{
+  color:#05dfd7;
+  font:15px arial;
+}
+a:link
+{
+  color:white;
+  background-color: transparent;
+}
+a:hover
+{
+  color:#bbe1fa;
+  background-color: inherit;
+}
+a:visited
+{
+  color:white;
+}
