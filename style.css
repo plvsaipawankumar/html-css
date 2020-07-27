@@ -50,3 +50,20 @@ a:visited
 {
   color:white;
 }
+.name/*class can be of same name"*/
+{
+  color:white;
+  font-size: 20px;
+}
+span
+{
+  color:#05dfd7;
+}
+#headering/*it can't be of same names*/
+{
+  color:white;
+}
+form
+{
+  color:white;
+}
